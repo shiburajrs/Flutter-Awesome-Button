@@ -187,5 +187,3 @@ AwesomeAnimatedButton(
   <img src="assets/images/awesome_flutter_icon_button.png" alt="Icon Button" style="width: 250px; margin: 5px;">
 </div>
 
-
-![Awesome Animated Button](https://example.com/awesome-animated-b
